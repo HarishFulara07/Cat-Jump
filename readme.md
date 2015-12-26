@@ -1,0 +1,1 @@
+A simple JavaScript game. There is a running leopard and we have to save him from colliding with stones. I have used createJS library to make the game. 
