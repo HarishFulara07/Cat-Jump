@@ -1,6 +1,6 @@
 #Tiger Jump
 
-The aim of the game is to save the leopard from colliding with stones using up-down arrow keys.
+The aim of the game is to save the tiger from colliding with stones using up-down arrow keys.
 
 <br>
 
